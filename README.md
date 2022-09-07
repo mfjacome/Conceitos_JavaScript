@@ -4,4 +4,4 @@ Apresenta conceitos importantes sobre a linguagem, tais como:
 
 - Variaveis;
 - Operadores: aritmeticos, Lógicos e relacionais;
-- Comando básicos: 
+- Comandos básicos: 
